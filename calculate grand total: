@@ -1,0 +1,3 @@
+calculate grand total:
+if selectedTipRate === "" : grab value from cust tips
+else grab selectedTipRate
